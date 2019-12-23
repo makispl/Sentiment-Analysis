@@ -1,7 +1,6 @@
 # Twitter Sentiment Analysis using Python; what does the audience think of the upcoming James Bond movie?
 
-**Introduction**
-
+## Introduction
 James Bond is one of the longest continually-running film series in history, having been in on-going production from 1962 to the present. The upcoming movie titled as "No Time To Die" (25th instalment) goes out on April 2020 and while it is much anticipated, it may be wise (for the production) to take a census of the audience's desires and adapt the montage procedure accordingly. In this context, Sentiment Analysis could become a valuable tool...
 
 In brief, Sentiment Analysis refers to a set of techniques used to identify and extract subjective information from a large source-dataset, usually comprised of text. The final scope is to study the "mined" material in a deep and thorough, yet comprehensive for human beings, way that may outcome considerable insights of the social sentiment upon various topics.
