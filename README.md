@@ -7,8 +7,7 @@ In brief, Sentiment Analysis refers to a set of techniques used to identify and 
 
 **Scope:** This project aims to establish a basic implementation of sentiment analysis on Twitter data with Python, in order to determine the attitude of the audience upon the upcoming James Bond movie "No Time to Die", earliest referred to as #Bond25. We are going to use a series of free Python libraries (Pandas, Tweepy, TextBlob) and the Twitter API for data collection (web scraping), depicting finally a couple of data visualizations to better communicate the nuanced narrative of the findings.
 
-**Additional Analysis**
-
+## Additional Analysis
 We investigate any underlying trends of sentiment across specific countries, answering questions like: Are the British people more inclined to be in favour of their traditional agent due to his origin? How does the Americans position themselves against a blockbuster that does not belong to their Hollywood system?
 
-[It stands as an independent analysis in an effort to enhance my ability to communicate results, reason about data and stay motivated to continuously implement newly aquired skills & capabilities, so as to enrich my portfolio of data science-oriented projects]
+*[It stands as an independent analysis in an effort to enhance my ability to communicate results, reason about data and stay motivated to continuously implement newly aquired skills & capabilities, so as to enrich my portfolio of data science-oriented projects]*
