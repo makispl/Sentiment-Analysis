@@ -1,5 +1,7 @@
 # Sentiment Analysis using Python;Twitter on the upcoming James Bond movie
 
+[Originally published on Medium via the Data Driven Investor publication](https://medium.com/datadriveninvestor/twitter-sentiment-analysis-using-python-what-does-the-audience-think-of-the-next-james-bond-movie-a9950adc2822)]
+
 ## Introduction
 James Bond is one of the longest continually-running film series in history, having been in on-going production from 1962 to the present. The upcoming movie titled as "No Time To Die" (25th instalment) goes out on April 2020 and while it is much anticipated, it may be wise (for the production) to take a census of the audience's desires and adapt the montage procedure accordingly. In this context, Sentiment Analysis could become a valuable tool...
 
